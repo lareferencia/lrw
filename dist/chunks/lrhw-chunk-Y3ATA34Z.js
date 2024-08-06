@@ -1,0 +1,1 @@
+import{e as t,g as o,j as r,r as n,t as i}from"./lrhw-chunk-FIUMDXQF.js";o();var e=t(r()),a=()=>(0,e.jsx)(i,{display:"flex",justifyContent:"center",alignItems:"center",height:"100%",children:(0,e.jsx)(n,{as:"h1",children:"No se encontrar\xF3 informacion"})}),x=a;export{x as default};
