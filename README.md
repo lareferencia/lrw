@@ -6,7 +6,7 @@ Widget especializado que exhibe las estadìsticas del item en todos los niveles 
 ### 1. Etiqueta HTML y renderizado
 
 1. Ubicar el lugar del HTML donde se desee incrustrar el widget.
-2. Colocar una etiqueta <div></div> con el id "lrhw-widget" (dentro de esa etiqueta se renderizará el widget), quedará de esta forma:
+2. Colocar una etiqueta "div" con el id "lrhw-widget" (dentro de esa etiqueta se renderizará el widget), quedará de esta forma:
    
    ```
    <div id="usage-stats"></div>
