@@ -14,7 +14,7 @@ Widget especializado que exhibe las estadìsticas del item en todos los niveles 
 
 ### 2. Script que utiliza los archivos Javascript
 
-1. Ubicar la etiqueta <body></body>, posiblemente dentro de "index.html"
+1. Ubicar la etiqueta "body", posiblemente dentro de "index.html"
 2. Copiar y pega dentro de dicha etiqueta el siguiente script:
 
    ```
