@@ -1,5 +1,8 @@
 # Changelog
 
+## v2.0.7
+Nueva versión con API 2.0
+
 ## v1.1.6
 - identifier_prefix y identifier_regex ahora pueden generar un identifier basado en identifier_meta_field cuando los tres son usados al mismo tiempo
 
