@@ -1,5 +1,8 @@
 # Changelog
 
+## v2.0.8
+Maps Bugfix
+
 ## v2.0.7
 Nueva versión con API 2.0
 
