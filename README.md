@@ -300,6 +300,6 @@ Finalmente para que el script pueda obtener los datos a graficar, es necesario q
 De esta forma el repositorio tendrá permiso para acceder a recursos seleccionados desde un origen distinto (dominio) al que pertenece, en cumplimiento del protocolo Cross-origin resource sharing (CORS).
 
 # Instalación del *widget* en DSpace 7
-Para instalar este widget en DSpace 7 consultar la documentacion en: https://github.com/lareferencia/lareferencia-widget-embed/edit/main/README.md
+> Para instalar este widget en DSpace 7 consultar la documentación en: https://github.com/lareferencia/lareferencia-widget-embed/edit/main/README.md
 
 
